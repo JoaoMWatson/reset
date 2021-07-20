@@ -20,3 +20,7 @@
 
     -Dano com Arma de Disparo
         = Dano da Arma
+
+    
+    artas 
+    durotar - golem amigo do artas
